@@ -1,0 +1,19 @@
+{
+  "name": "Node-typescript-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julio Nunes",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/express": "^4.17.14",
+    "express": "^4.18.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.39.0",
+    "@typescript-eslint/parser": "^5.39.0",
+    "eslint": "^8.24.0"
+  }
+}
