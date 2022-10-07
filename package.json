@@ -5,6 +5,9 @@
   "author": "Julio Nunes",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "ts-node-dev ./src/index.ts"
+  },
   "dependencies": {
     "@types/express": "^4.17.14",
     "express": "^4.18.1",
